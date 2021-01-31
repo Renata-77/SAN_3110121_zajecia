@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: rgb(22, 99, 161);
+}
+#main-container {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 50vh;
+}
+#med-container {
+    margin: auto;
+    width: 100vw;
+    height: 100vh;
+    color: red;
+
+}
+.footer {
+    padding: 50px 0 0 0;
+}
+.input {
+    padding: 20px 0 0 0;
+
+}
